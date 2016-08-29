@@ -1,0 +1,65 @@
+---
+title: "Calificaciones Actuaria"
+author: "Rodrigo Romero Gregorio"
+date: "29 de agosto de 2016"
+output: html_document
+---
+
+
+
+#HISTORIAL ACADÉMICO
+##Rodrigo Romero Gregorio
+### 201426749 
+
+*Periodo Otoño 2014*
+
+ * Intro. a la Prof. Actuarial 6
+ * Matemáticas Básicas 9
+ * Problemas de Matemáticas Básicas 9
+ * Conceptos de Cálculo 9
+ * Programación Actuarial 5
+ * DHPC 9
+ 
+*Periodo Primavera 2015*
+
+ * Gemometria analítica 8
+ * Cálculo Diferencial 8
+ * Teoría del Interés 1 6
+ * Microeconomía 8
+ * Teoria de ecuaciones 8
+ 
+*Periodo Otoño 2015*
+
+ * Macroeconomía 8
+ * Teoria del interés 2 9
+ * Álgebra Lineal 5
+ * Cálculo Integral 8
+ * Programación Actuarial 1 7
+ * Formación Humana y Social 
+ 
+*Periodo Primavera 2016*
+
+ * Programación Actuarial 2 9
+ * Sistema Financiero Mexicano 10
+ * DHTIC 10
+ * Álgebra Lineal 9
+ * Cálculo Diferencial en V.V 8
+ * Probabilidad 1 7
+ 
+ *Periodo en curso*
+ 
+ * Probabilidad 2
+ * Derivados Financieros
+ * Programación Actuarial 3
+ * Cálculo Integral en V.V 
+ * Contabilidad
+ * RCAD
+ 
+ 
+  
+
+
+
+
+
+
